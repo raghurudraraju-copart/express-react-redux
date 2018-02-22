@@ -1,0 +1,20 @@
+{
+  "name": "express-react-redux",
+  "version": "1.0.0",
+  "description": "This is sample example which uses express, react and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghurudrarajucopart/express-react-redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raghurudrarajucopart/express-react-redux/issues"
+  },
+  "homepage": "https://github.com/raghurudrarajucopart/express-react-redux#readme"
+}
